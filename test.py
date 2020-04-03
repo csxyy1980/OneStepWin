@@ -1,3 +1,7 @@
+# -*- coding:utf-8 -*-
+# to make .exe by using command: pyinstaller --console --onefile test.py
+
+
 import  numpy
 print(numpy.__version__)
 
